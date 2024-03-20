@@ -1,0 +1,92 @@
+10
+_
+122
+Brando Montoya
+12/12/2001
+Medellin
+calle 23 #43-23 barrio Medellin
+12345678
+baldo@gmaill.com
+123
+administrador
+12/12/2019*correo1*andres*que vas a comer?*!13/12/2019*correo2*andres*respondeme
+11/12/2019*correo0*andres*hola como estas??*!12/12/2019*prueba*juan*loremipsum
+19/10/2023 13:57*prueba3*Juan Quintero*holaaa
+_
+212
+Juan Quintero
+31/03/2000
+Bogota
+avenida 44 #23-45a barrio Medellin
+1112222333
+juan@hotmail.es
+abc
+empleado
+19/10/2023 13:57*prueba2*Brando Montoya*hola*!19/10/2023 13:57*prueba1*Brando Montoya*ola
+null
+null
+_
+1075689
+Pedro Gomez
+20/02/1990
+Popayan
+kr23 8-10 SanJuan Envigado Mirador
+3003012323
+pedrogomez@edl.edu.co
+p3dr41990.$
+empleado
+null
+null
+null
+_
+2345902
+Camila Jimenez
+15/09/1985
+Cali
+tr45 4S-73 Poblado Medellin null
+3003234567
+camilajimenez@edl.edu.co
+c4100l485Cal$ 
+administrador
+null
+null
+null
+_
+2345934
+Tatiana Ramirez
+15/11/1982
+Medellin
+cll5 4S-69 Poblado Medellin UrbColina
+3004567890
+tatianaramirez@edl.edu.co
+r482novMed.
+empleado
+null
+null
+null
+_
+24567898
+Juan Perez
+12/10/1980
+Medellin
+kr74 4T-35 Boston Medellin null
+3003233234
+juanperez@edl.edu.co
+j4an1980$
+empleado
+null
+null
+null
+_
+34568910
+Diego Palacio
+20/12/1979
+Envigado
+cll65 3-29 Robledo Medellin Balcones-de-la-Quinta
+3013234567
+diegopalacio@edl.edu.co
+d13go1979.*
+empleado
+null
+null
+null
